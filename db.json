@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "Ayaka",
+      "email": "Ayaka@Inazuma.com",
+      "password": "HeroinPrincess",
+      "status": "unverified",
+      "imgProfile": "",
+      "role": "user"
+    },
+    {
+      "username": "Kazuha",
+      "email": "Kazuha@Inazuma.com",
+      "password": "Kaedehara",
+      "status": "unverified",
+      "imgProfile": "",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "username": "Keqing",
+      "email": "Keqing@Liyue.com",
+      "password": "Qixing",
+      "status": "unverified",
+      "imgProfile": "",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "username": "Albedo",
+      "email": "Albedo@Mondstad.com",
+      "password": "Alchemist",
+      "status": "unverified",
+      "imgProfile": "",
+      "role": "user",
+      "id": 4
+    }
+  ]
+}

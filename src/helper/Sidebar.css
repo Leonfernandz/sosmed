@@ -1,0 +1,26 @@
+.navigator {
+border-left:5px solid #6096B4;
+box-sizing : initial;
+transition:width .5s; 
+}
+.navigator .title{
+line-height: 60px;
+}
+.navigator .icons{
+line-height:70px;
+white-space: normal;
+}
+.navigator .button{
+line-height:70px;
+white-space: normal;
+}
+
+.navigator .list.active{
+background:rgb(226 232 240);
+border-top-left-radius:20px;
+border-bottom-left-radius:20px;
+}
+
+.navigator .list.active a{
+color:#333;
+}

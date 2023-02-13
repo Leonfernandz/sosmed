@@ -1,0 +1,50 @@
+<div className='m-0 p-0 box-border'>
+        <div className='opacity-0 sm:opacity-[1] sm:flex sm:justify-center ml-20 sm:py-5 lg:w-[80%]'>
+            <div className=' flex flex-col shadow-md justify-center shadow-gray-500 bg-slate-300 rounded-2xl sm:m-8 sm:my-5 sm:w-full sm:h-20 lg:h-[400px] lg:w-[80%]'>
+                <h1 className='font-bold  sm:pb-1 sm:pl-5 lg:text-xl lg:py-2'>WHO TO FOLLOW</h1>
+                <div className='sm:w-full sm:h-1/2 md:w-full lg:w-[90%] lg:h-5/6 lg:mx-auto flex flex-wrap justify-evenly gap-y-2'>
+                    <div className='border border-blue-600 rounded-3xl sm:w-1/5 sm:h-[37px] lg:w-full lg:h-16 flex items-center justify-between lg:px-2'>
+                        <div className='border sm:w-5 sm:h-5 md:w-8 md:h-8 lg:w-10 lg:h-10 border-red-500 rounded-[50%] overflow-hidden'><img className=' object-cover h-full' src="https://kepoper.com/wp-content/uploads/2020/11/WNTR-758x505.png" /></div>
+                        <h1 className='sm:text-xs lg:text-xl md:font-semibold'>Winter</h1>
+                        <div className='flex justify-evenly  lg:w-1/3 lg:h-10 items-center lg:text-2xl'>
+                        <button type='button' ><IoMdPersonAdd /></button>
+                        <button type='button'><BiMessageRoundedDots /></button>
+                        </div>
+                    </div>
+
+                    <div className='border border-blue-600 rounded-3xl sm:w-1/5 sm:h-[37px] lg:w-full lg:h-16 flex items-center justify-between lg:px-2'>
+                        <div className='border sm:w-5 sm:h-5 md:w-8 md:h-8 lg:w-10 lg:h-10 border-red-500 rounded-[50%] overflow-hidden'> <img className=' object-cover h-full' src="https://kepoper.com/wp-content/uploads/2020/11/GSL-758x505.png" /></div>
+                        <h1 className='sm:text-xs lg:text-xl md:font-semibold'>Giselle</h1>
+                        <div className='flex justify-evenly lg:w-1/3 lg:h-10 items-center lg:text-2xl'>
+                        <button type='button' ><IoMdPersonAdd /></button>
+                        <button type='button'><BiMessageRoundedDots /></button>
+                        </div>
+                    </div>
+
+                    <div className='border border-blue-600 rounded-3xl sm:w-1/5 sm:h-[37px] lg:w-full lg:h-16 flex items-center justify-between lg:px-2'>
+                        <div className='border sm:w-5 sm:h-5 md:w-8 md:h-8 lg:w-10 lg:h-10 border-red-500 rounded-[50%] overflow-hidden'><img className=' object-cover h-full' src="https://media.matamata.com/thumbs/2021/10/23/39136-transformasi-ningning-aespa-instagramataespa-official/o-img-39136-transformasi-ningning-aespa-instagramataespa-official.jpg" /></div>
+                        <h1 className='sm:text-xs lg:text-xl md:font-semibold'>Ningning</h1>
+                        <div className='flex justify-evenly lg:w-1/3 lg:h-10 items-center lg:text-2xl'>
+                        <button type='button' ><IoMdPersonAdd /></button>
+                        <button type='button'><BiMessageRoundedDots /></button>
+                        </div>
+                    </div>
+
+                    <div className='border border-blue-600 rounded-3xl sm:w-1/5 sm:h-[37px] lg:w-full lg:h-16 flex items-center justify-between lg:px-2'>
+                        <div className='border sm:w-5 sm:h-5 md:w-8 md:h-8 lg:w-10 lg:h-10 border-red-500 rounded-[50%] overflow-hidden'> <img className=' object-cover h-full' src="https://portalpopline.com.br/wp-content/uploads/2020/10/karina-2.jpeg?w=640" /></div>
+                        <h1 className='sm:text-xs lg:text-xl md:font-semibold'>Karina</h1>
+                        <div className='flex justify-evenly lg:w-1/3 lg:h-10 items-center lg:text-2xl'>
+                        <button type='button' ><IoMdPersonAdd /></button>
+                        <button type='button'><BiMessageRoundedDots /></button>
+                        </div>
+                    </div>
+
+                    <a className='text-blue-500 font-semibold hover:text-blue-600' href="">See more</a>
+
+                </div>
+
+            </div>
+
+
+        </div>
+     </div>

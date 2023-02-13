@@ -1,0 +1,17 @@
+.follow {
+border-right:5px solid #6096B4;
+box-sizing : initial;
+transition:width .5s; 
+}
+.follow .title{
+line-height: 60px;
+}
+.follow .icons{
+line-height:70px;
+white-space: normal;
+}
+.follow .button{
+line-height:70px;
+white-space: normal;
+}
+
